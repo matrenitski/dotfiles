@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matrenitski@gmail.comf
+	name = Max Matrenitski
